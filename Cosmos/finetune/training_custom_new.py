@@ -120,8 +120,8 @@ def train_1_epoch(model, train_loader, val_loader, device, optimizer, loss_L1, l
     return avg_train_loss, avg_val_loss, global_step
 
 def training(cfg):
-    wandb.login(key='9ab49432fdba1dc80b8e9b71d7faca7e8b324e3e')  # 🔁 Đổi thành API key của bạn
-    wandb.init(project="O_P_C", name='cosmos_continuous', config=cfg)
+    wandb.login(key='your_wandb_api_key')  # 🔁 Đổi thành API key của bạn
+    wandb.init(project="project_name", name='cosmos_continuous', config=cfg)
 
     model = model_class(**config)
     log_dir = os.path.join("log", cfg["pretrained_path"].split("/")[-2] + "-Custom-Continuous-05032025")
@@ -130,7 +130,6 @@ def training(cfg):
 
     # Load pretrained weights
     model_weight = torch.jit.load(cfg['pretrained_path'])
-    # model_weight = torch.load('/home/jovyan/workspace/ducntm/Cosmos/finetune/ckpt/Cosmos-Tokenize1-CV8x8x8-720p-Custom-fixbug-loss-04192025/model_epoch_10.pth')
     state_dict = model_weight.state_dict()
     del model_weight
     torch.cuda.empty_cache()
