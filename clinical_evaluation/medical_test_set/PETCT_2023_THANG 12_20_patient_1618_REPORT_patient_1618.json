@@ -1,0 +1,45 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "40 x 28 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh khối mờ bờ tua gai",
+        "Vị trí của khối u, tổn thương, bất thường": "trung tâm thùy giữa phổi phải",
+        "Mức độ FDG": {
+            "SUVmax": 8.9,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Xâm lấn rốn phổi, dính vào rãnh liên thùy và màng phổi trung thất",
+        "Giai đoạn chuyển hoá": "U nguyên phát"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "hạch lớn nhất có kích thước 10 x 12 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh vài hạch trung thất",
+        "Vị trí của khối u, tổn thương, bất thường": "dọc cạnh phải khí quản, trước và dưới carina, hạch rốn phổi phải",
+        "Mức độ FDG": {
+            "SUVmax": 7.3,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Khả năng di căn"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "nốt lớn nhất có đường kính 6 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh vài nốt mờ",
+        "Vị trí của khối u, tổn thương, bất thường": "ngoại vi thùy giữa phổi phải",
+        "Mức độ FDG": {
+            "SUVmax": "Không có",
+            "Tăng chuyển hoá FDG": "Không tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Lành tính"
+    },{
+    "Kích thước khối u, tổn thương, bất thường": "Chưa xác định",
+    "Hình dạng của khối u, tổn thương, bất thường": "Tổn thương hủy xương",
+    "Vị trí của khối u, tổn thương, bất thường": "Cung sau xương sườn 4 bên trái; xương cánh chậu; trần ổ cối bên trái",
+    "Mức độ FDG": {
+        "SUVmax": 7.2,
+        "Tăng chuyển hoá FDG": "Cao"
+    },
+    "Xâm lấn": "Không",
+    "Giai đoạn chuyển hoá": "Khả năng di căn"
+}
+]

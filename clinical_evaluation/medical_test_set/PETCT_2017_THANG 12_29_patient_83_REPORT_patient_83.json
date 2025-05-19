@@ -1,0 +1,24 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "9 x 10 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh hạch",
+        "Vị trí của khối u, tổn thương, bất thường": "rốn phổi phải",
+        "Mức độ FDG": {
+            "SUVmax": 4.78,
+            "Tăng chuyển hoá FDG": "Không có"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": " khả năng do viêm"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "Không có",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh dải mờ",
+        "Vị trí của khối u, tổn thương, bất thường": "thùy giữa phổi phải",
+        "Mức độ FDG": {
+            "SUVmax": "Không có",
+            "Tăng chuyển hoá FDG": "Không tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Xơ hóa sau phẫu thuật"
+    }
+]

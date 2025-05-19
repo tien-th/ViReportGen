@@ -1,0 +1,76 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "66 x 77 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh tổn thương dạng hang thành dày không đều",
+        "Vị trí của khối u, tổn thương, bất thường": "thùy dưới phổi trái",
+        "Mức độ FDG": {
+            "SUVmax": 14.0,
+            "Tăng chuyển hoá FDG": "Không đều"
+        },
+        "Xâm lấn": "Dính vào màng phổi thành sau",
+        "Giai đoạn chuyển hoá": "Khả năng ác tính"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "hạch lớn nhất có kích thước 10 x 15 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh vài hạch trung thất",
+        "Vị trí của khối u, tổn thương, bất thường": "trước khí quản đoạn thấp và dưới carina, hạch rốn phổi hai bên",
+        "Mức độ FDG": {
+            "SUVmax": 6.8,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Di căn hạch"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "không có",
+        "Hình dạng của khối u, tổn thương, bất thường": " dày khu trú màng phổi trung thất và tràn dịch khoang màng phổi",
+        "Vị trí của khối u, tổn thương, bất thường": " màng phổi trung thất  và khoang màng phổi trái",
+        "Mức độ FDG": {
+            "SUVmax": "7,4",
+            "Tăng chuyển hoá FDG": "cao"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Do metastases"
+    },{
+        "Kích thước khối u, tổn thương, bất thường": "kích thước 9 x 13 mm ",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hạch",
+        "Vị trí của khối u, tổn thương, bất thường": " hạch chân hoành phải ",
+        "Mức độ FDG": {
+            "SUVmax": 5.4,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Di căn hạch"
+    },{
+        "Kích thước khối u, tổn thương, bất thường": " hạch lớn nhất có kích thước 28 x 32 mm ",
+        "Hình dạng của khối u, tổn thương, bất thường": " Hình ảnh nhiều hạch ",
+        "Vị trí của khối u, tổn thương, bất thường": "nhóm VA, VB và nhiều hạch thượng đòn trái",
+        "Mức độ FDG": {
+            "SUVmax": 9.1,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Di căn hạch"
+    },
+{
+        "Kích thước khối u, tổn thương, bất thường": " kích thước 26 x 28 mm, ",
+        "Hình dạng của khối u, tổn thương, bất thường": " khối tỉ trọng tổ chức ",
+        "Vị trí của khối u, tổn thương, bất thường": "tuyến thượng thận trái ",
+        "Mức độ FDG": {
+            "SUVmax": 16.7,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Di căn "
+    },{
+        "Kích thước khối u, tổn thương, bất thường": "không có",
+        "Hình dạng của khối u, tổn thương, bất thường": "tổn thương hủy xương",
+        "Vị trí của khối u, tổn thương, bất thường": "đốt sống C3 và xương bả vai trái",
+        "Mức độ FDG": {
+            "SUVmax": 7.8,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Di căn"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "10 x 8 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh nốt mờ",
+        "Vị trí của khối u, tổn thương, bất thường": "hạ phân thùy I thùy trên phổi phải",
+        "Mức độ FDG": {
+            "SUVmax": 5.6,
+            "Tăng chuyển hoá FDG": "Có tăng"
+        },
+        "Xâm lấn": "xung quanh có thâm nhiễm",
+        "Giai đoạn chuyển hoá": "U nguyên phát"
+    },{
+    "Kích thước khối u, tổn thương, bất thường": "12 x 10 mm (hạch lớn nhất)",
+    "Hình dạng của khối u, tổn thương, bất thường": "Hạch",
+    "Vị trí của khối u, tổn thương, bất thường": "Trước carina, dưới quai động mạch chủ, cửa sổ chủ phổi và hạch rốn phổi phải",
+    "Mức độ FDG": {
+        "SUVmax": 0,
+        "Tăng chuyển hóa FDG": "Không tăng"
+    },
+    "Xâm lấn": "Không",
+    "Giai đoạn chuyển hóa": "."
+}
+
+]

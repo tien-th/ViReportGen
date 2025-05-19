@@ -1,0 +1,46 @@
+# Model files
+*.pt
+*.pth
+*.onnx
+*.h5
+*.hdf5
+*.pkl
+*.bin
+*.weights
+*.model
+# Dataset files
+*.npy
+*.npz
+*.csv
+*.json
+*.jsonl
+*.json.gz
+*.tar
+*.tar.gz
+*.zip
+# Media files
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.avi
+*.mov filter=lfs diff=lfs merge=lfs -text
+*.wmv
+*.flv
+*.mkv
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+# Other large files
+*.iso
+*.dmg
+*.exe
+*.dll
+*.so
+*.dylib
+*.tar filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+cosmos1/models/diffusion/nemo/post_training/multicamera/multi_camera_video_batch_holding_cup.pt filter=lfs diff=lfs merge=lfs -text
+ filter=lfs diff=lfs merge=lfs -text

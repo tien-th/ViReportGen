@@ -1,0 +1,23 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "9 x 10 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh nốt mờ bán đặc",
+        "Vị trí của khối u, tổn thương, bất thường": "ngoại vi thùy trên phổi trái",
+        "Mức độ FDG": {
+            "SUVmax": 3.5,
+            "Tăng chuyển hoá FDG": "Có tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "cần đối chiếu với mô bệnh học"
+    },{
+  "Kích thước khối u, tổn thương, bất thường": "10 mm",
+  "Hình dạng của khối u, tổn thương, bất thường": "Hạch",
+  "Vị trí của khối u, tổn thương, bất thường": "Dưới quai động mạch chủ và bên phải khí quản đoạn thấp",
+  "Mức độ FDG": {
+    "SUVmax": 0,
+    "Tăng chuyển hóa FDG": "Không tăng"
+  },
+  "Xâm lấn": "Không",
+  "Giai đoạn chuyển hóa": "nên lưu ý theo dõi"
+}
+]

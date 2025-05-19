@@ -1,0 +1,90 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "vài mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "hạch nhỏ",
+        "Vị trí của khối u, tổn thương, bất thường": "trước khí quản, trước carina và cạnh thực quản",
+        "Mức độ FDG": {
+            "SUVmax": "4",
+            "Tăng chuyển hoá FDG": "Có tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Không có"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "16 x 10 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "hạch lớn",
+        "Vị trí của khối u, tổn thương, bất thường": "dưới carina và rốn phổi hai bên",
+        "Mức độ FDG": {
+            "SUVmax": "10",
+            "Tăng chuyển hoá FDG": "Có tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Không có"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "15 x 10 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "hạch lớn",
+        "Vị trí của khối u, tổn thương, bất thường": "cạnh thực quản",
+        "Mức độ FDG": {
+            "SUVmax": "10",
+            "Tăng chuyển hoá FDG": "Có tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Không có"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "15 x 10 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "hạch lớn",
+        "Vị trí của khối u, tổn thương, bất thường": "rốn phổi hai bên",
+        "Mức độ FDG": {
+            "SUVmax": "10",
+            "Tăng chuyển hoá FDG": "Có tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Không có"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "15 x 10 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "hạch lớn",
+        "Vị trí của khối u, tổn thương, bất thường": "dưới carina và cạnh thực quản",
+        "Mức độ FDG": {
+            "SUVmax": "10",
+            "Tăng chuyển hoá FDG": "Có tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Không có"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "15 x 10 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "hạch lớn",
+        "Vị trí của khối u, tổn thương, bất thường": "trước và cạnh khí quản",
+        "Mức độ FDG": {
+            "SUVmax": "10",
+            "Tăng chuyển hoá FDG": "Có tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Không có"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "15 x 10 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "hạch lớn",
+        "Vị trí của khối u, tổn thương, bất thường": "trước và cạnh quai động mạch chủ",
+        "Mức độ FDG": {
+            "SUVmax": "10",
+            "Tăng chuyển hoá FDG": "Có tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Không có"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "15 x 10 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "hạch lớn",
+        "Vị trí của khối u, tổn thương, bất thường": "trước và cạnh thực quản",
+        "Mức độ FDG": {
+            "SUVmax": "10",
+            "Tăng chuyển hoá FDG": "Có tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Không có"
+    }
+]

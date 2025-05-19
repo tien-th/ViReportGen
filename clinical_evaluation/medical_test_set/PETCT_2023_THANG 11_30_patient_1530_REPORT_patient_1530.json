@@ -1,0 +1,45 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "37 x 39 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh khối mờ bờ đa cung",
+        "Vị trí của khối u, tổn thương, bất thường": "hạ phân thùy VI phổi trái",
+        "Mức độ FDG": {
+            "SUVmax": 4.3,
+            "Tăng chuyển hoá FDG": "Có tăng"
+        },
+        "Xâm lấn": "Nghi ngờ dính vào rốn phổi và màng phổi thành sau trái",
+        "Giai đoạn chuyển hoá": "Khả năng ác tính"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "Không có",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh dày màng phổi",
+        "Vị trí của khối u, tổn thương, bất thường": "thành sau bên trái",
+        "Mức độ FDG": {
+            "SUVmax": 2.7,
+            "Tăng chuyển hoá FDG": "Tăng nhẹ"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "chưa loại trừ khả năng do di căn"
+    },{
+    "Kích thước khối u, tổn thương, bất thường": "10 mm",
+    "Hình dạng của khối u, tổn thương, bất thường": "Vài hạch nhỏ",
+    "Vị trí của khối u, tổn thương, bất thường": "Trước carina và cạnh phế quản gốc trái",
+    "Mức độ FDG": {
+        "SUVmax": 0,
+        "Tăng chuyển hóa FDG": "Không tăng"
+    },
+    "Xâm lấn": "Không",
+    "Giai đoạn chuyển hóa": "Khả năng viêm"
+},{
+    "Kích thước khối u, tổn thương, bất thường": "Chưa xác định",
+    "Hình dạng của khối u, tổn thương, bất thường": "Dải mờ",
+    "Vị trí của khối u, tổn thương, bất thường": "Thùy trên phổi phải và thùy dưới phổi trái",
+    "Mức độ FDG": {
+        "SUVmax": 0,
+        "Tăng chuyển hóa FDG": "Không tăng"
+    },
+    "Xâm lấn": "Không",
+    "Giai đoạn chuyển hóa": "Khả năng xơ hóa"
+}
+
+]

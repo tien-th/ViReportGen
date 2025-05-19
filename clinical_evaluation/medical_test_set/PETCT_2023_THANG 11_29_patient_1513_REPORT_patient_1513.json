@@ -1,0 +1,46 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "38 x 40 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh khối mờ bờ đa cung",
+        "Vị trí của khối u, tổn thương, bất thường": "thùy dưới phổi phải, dính vào rãnh liên thùy",
+        "Mức độ FDG": {
+            "SUVmax": 18.6,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Dính vào rãnh liên thùy",
+        "Giai đoạn chuyển hoá": "Khả năng ác tính"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "đường kính 10 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh hạch",
+        "Vị trí của khối u, tổn thương, bất thường": "rốn phổi phải",
+        "Mức độ FDG": {
+            "SUVmax": 5.0,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Khả năng di căn"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "kích thước vài mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh vài hạch",
+        "Vị trí của khối u, tổn thương, bất thường": "dưới quai động mạch chủ",
+        "Mức độ FDG": {
+            "SUVmax": 3.5,
+            "Tăng chuyển hoá FDG": "Tăng nhẹ"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Chưa loại trừ khả năng di căn"
+    },{
+    "Kích thước khối u, tổn thương, bất thường": "Chưa xác định",
+    "Hình dạng của khối u, tổn thương, bất thường": "Vài dải mờ",
+    "Vị trí của khối u, tổn thương, bất thường": "Ngoại vi thùy dưới phổi phải",
+    "Mức độ FDG": {
+        "SUVmax": 0,
+        "Tăng chuyển hóa FDG": "Không tăng"
+    },
+    "Xâm lấn": "Không",
+    "Giai đoạn chuyển hóa": "Khả năng xơ hóa"
+}
+
+]

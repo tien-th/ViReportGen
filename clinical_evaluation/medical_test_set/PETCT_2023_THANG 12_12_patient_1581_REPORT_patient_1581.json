@@ -1,0 +1,58 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "34 x 41 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh khối mờ bờ đa cung",
+        "Vị trí của khối u, tổn thương, bất thường": "thùy trên phổi trái",
+        "Mức độ FDG": {
+            "SUVmax": 3.1,
+            "Tăng chuyển hoá FDG": "Tăng nhẹ"
+        },
+        "Xâm lấn": "Dính vào màng phổi thành bên",
+        "Giai đoạn chuyển hoá": "U nguyên phát"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "nốt lớn nhất có kích thước 11 x 15 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh vài nốt mờ rải rác",
+        "Vị trí của khối u, tổn thương, bất thường": "nhu mô thùy trên hai phổi và thùy dưới phổi trái",
+        "Mức độ FDG": {
+            "SUVmax": "Không có",
+            "Tăng chuyển hoá FDG": "Không tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Không có"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "Chưa xác định",
+        "Hình dạng của khối u, tổn thương, bất thường": "Tổn thương dày",
+        "Vị trí của khối u, tổn thương, bất thường": "Hố Rosenmuller bên trái, xâm lấn dốc nền, xương đá bên trái, chân bướm trái và đốt sống C1",
+        "Mức độ FDG": {
+            "SUVmax": 23.3,
+            "Tăng chuyển hóa FDG": "Cao"
+        },
+        "Xâm lấn": "Có",
+        "Giai đoạn chuyển hóa": "Khả năng ác tính"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "20 x 30 mm (hạch lớn nhất)",
+        "Hình dạng của khối u, tổn thương, bất thường": "Nhiều hạch",
+        "Vị trí của khối u, tổn thương, bất thường": "Sau hầu trái, dọc trong và sau cơ ức đòn chũm trái (nhóm IIB, III, IV, VA, VB), thượng đòn trái",
+        "Mức độ FDG": {
+            "SUVmax": 15.6,
+            "Tăng chuyển hóa FDG": "Cao"
+        },
+        "Xâm lấn": "Không rõ",
+        "Giai đoạn chuyển hóa": "Khả năng di căn"
+    },
+{
+    "Kích thước khối u, tổn thương, bất thường": "7 x 10 mm (hạch lớn nhất)",
+    "Hình dạng của khối u, tổn thương, bất thường": "Vài hạch",
+    "Vị trí của khối u, tổn thương, bất thường": "Trung thất cạnh phải khí quản đoạn cao, cửa sổ chủ phổi, dưới carina và hạch rốn phổi hai bên",
+    "Mức độ FDG": {
+        "SUVmax": 4.4,
+        "Tăng chuyển hóa FDG": "Tăng"
+    },
+    "Xâm lấn": "Không",
+    "Giai đoạn chuyển hóa": "chưa loại trừ do di căn"
+}
+
+]

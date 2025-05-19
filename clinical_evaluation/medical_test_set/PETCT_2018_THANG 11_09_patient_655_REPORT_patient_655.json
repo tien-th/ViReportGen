@@ -1,0 +1,34 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "33 x 25 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh khối mờ",
+        "Vị trí của khối u, tổn thương, bất thường": "phần còn lại của phổi phải sau phẫu thuật",
+        "Mức độ FDG": {
+            "SUVmax": 13,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Dính vào màng phổi",
+        "Giai đoạn chuyển hoá": "Khả năng ác tính tái phát"
+    },{
+  "Kích thước khối u, tổn thương, bất thường": "Chưa xác định",
+  "Hình dạng của khối u, tổn thương, bất thường": "Dày màng phổi, tràn dịch màng phổi gây xẹp phổi",
+  "Vị trí của khối u, tổn thương, bất thường": "Phổi phải",
+  "Mức độ FDG": {
+    "SUVmax": 0,
+    "Tăng chuyển hóa FDG": "Không tăng"
+  },
+  "Xâm lấn": "Không rõ",
+  "Giai đoạn chuyển hóa": "Khả năng do di căn"
+},
+{
+  "Kích thước khối u, tổn thương, bất thường": "Chưa xác định",
+  "Hình dạng của khối u, tổn thương, bất thường": "Dày tổ chức kẽ",
+  "Vị trí của khối u, tổn thương, bất thường": "Thùy dưới phổi trái",
+  "Mức độ FDG": {
+    "SUVmax": 0,
+    "Tăng chuyển hóa FDG": "Không tăng"
+  },
+  "Xâm lấn": "Không",
+  "Giai đoạn chuyển hóa": "Khả năng do viêm"
+}
+]

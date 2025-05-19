@@ -1,0 +1,24 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "đường kính 6 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh nốt mờ",
+        "Vị trí của khối u, tổn thương, bất thường": "hạ phân thùy VI thùy dưới phổi phải",
+        "Mức độ FDG": {
+            "SUVmax": "Không có",
+            "Tăng chuyển hoá FDG": "Không tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "ĐỐI CHIẾU VỚI MÔ BỆNH HỌC"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "đường kính vài mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh nốt dày kẽ",
+        "Vị trí của khối u, tổn thương, bất thường": "hạ phân thùy VI thùy dưới phổi phải",
+        "Mức độ FDG": {
+            "SUVmax": "Không có",
+            "Tăng chuyển hoá FDG": "Không tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Khả năng do xơ hóa"
+    }
+]

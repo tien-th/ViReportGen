@@ -1,0 +1,10 @@
+*.pth
+*.pt
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.jit
+*.mp4

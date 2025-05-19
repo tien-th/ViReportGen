@@ -1,0 +1,348 @@
+[
+{
+    "id": "f1f806325de597bc442951251903f552936ec9903a4e4b68e9e45416e7ce594d",
+    "image": "PETCT_2019/THANG 5/images/abdomen_pelvis/day_21_patient_47.npy",
+    "conversations": [
+        {
+            "from": "human",
+            "value": "<image>\nBức ảnh này chụp bộ phận nào?"
+        },
+        {
+            "from": "gpt",
+            "value": "Bức ảnh này chụp bụng của bệnh nhân."
+        },
+        {
+            "from": "human",
+            "value": "Có những cơ quan nào trong ổ bụng bắt xạ theo đặc điểm sinh lý không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Có, hình ảnh cho thấy bắt xạ theo đặc điểm sinh lý ở gan, lách, thượng thận và đài bể thận hai bên."
+        },
+        {
+            "from": "human",
+            "value": "Có dấu hiệu bất thường nào ở khung đại tràng không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Hình ảnh cho thấy tăng chuyển hóa FDG ở khung đại tràng, nhưng điều này là theo đặc điểm sinh lý và không phải dấu hiệu bất thường."
+        },
+        {
+            "from": "human",
+            "value": "Có phát hiện hạch bất thường nào trong ổ bụng không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Có, hình ảnh ghi nhận vài hạch bẹn kích thước khoảng 10 mm ở hố bẹn hai bên, nhưng không tăng chuyển hóa FDG, gợi ý rằng chúng có thể là phản ứng viêm hoặc quá sản, không phải tổn thương ác tính."
+        },
+        {
+            "from": "human",
+            "value": "Nhìn chung thì dựa trên kết quả chụp này có phát hiện dấu hiệu tổn thương ác tính hay cụ thể hơn là ung thư nào không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Dựa trên hình ảnh chụp bụng, không có dấu hiệu rõ ràng của tổn thương ác tính. Các cơ quan như gan, lách, thượng thận và đài bể thận đều bắt xạ theo đặc điểm sinh lý bình thường. Khung đại tràng cũng chỉ cho thấy tăng chuyển hóa FDG theo đặc điểm sinh lý. Hạch bẹn có kích thước nhỏ và không tăng chuyển hóa FDG, cho thấy khả năng lành tính. Do đó, không có dấu hiệu rõ ràng của ung thư trong kết quả chụp này. Tuy nhiên, nếu bệnh nhân có triệu chứng bất thường, cần theo dõi và có thể thực hiện thêm các xét nghiệm để đảm bảo."
+        }
+    ]
+},
+{
+    "id": "515312e19769bf7e0af315ee2459f866fc93cac3cc0dfabb9cf51a92675adbf8",
+    "image": "PETCT_2019/THANG 5/images/abdomen_pelvis/day_21_patient_50.npy",
+    "conversations": [
+        {
+            "from": "human",
+            "value": "<image>\nBức ảnh này chụp bộ phận nào?"
+        },
+        {
+            "from": "gpt",
+            "value": "Bức ảnh này chụp bụng của bệnh nhân."
+        },
+        {
+            "from": "human",
+            "value": "Có những cơ quan nào trong ổ bụng bắt xạ theo đặc điểm sinh lý?"
+        },
+        {
+            "from": "gpt",
+            "value": "Hình ảnh cho thấy bắt xạ theo đặc điểm sinh lý ở gan, lách, thượng thận phải và đài bể thận hai bên."
+        },
+        {
+            "from": "human",
+            "value": "Có dấu hiệu bất thường nào ở dạ dày không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Có, hình ảnh cho thấy tăng chuyển hóa FDG lan tỏa ở dạ dày, khả năng do viêm. Điều này cần được theo dõi và đánh giá thêm."
+        },
+        {
+            "from": "human",
+            "value": "Có dấu hiệu gì ở tuyến thượng thận trái không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Có, hình ảnh cho thấy tăng nhẹ, khu trú chuyển hóa FDG ở tuyến thượng thận trái với SUVmax là 2,9. Điều này cần lưu ý theo dõi để xác định nguyên nhân và tính chất của tổn thương."
+        },
+        {
+            "from": "human",
+            "value": "Có phát hiện hạch bất thường nào trong ổ bụng không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Có, hình ảnh ghi nhận vài hạch bẹn kích thước khoảng 10 mm ở hố bẹn hai bên, nhưng không tăng chuyển hóa FDG, điều này cho thấy khả năng lành tính và có thể liên quan đến phản ứng viêm hoặc quá sản."
+        },
+        {
+            "from": "human",
+            "value": "Có dấu hiệu nào gợi ý tổn thương ác tính trong kết quả chụp này không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Dựa trên hình ảnh, không có dấu hiệu rõ ràng của tổn thương ác tính. Tăng chuyển hóa FDG ở dạ dày có thể do viêm, và tăng chuyển hóa ở tuyến thượng thận trái cần theo dõi nhưng không có đủ thông tin để khẳng định là ác tính. Các hạch bẹn cũng không có tăng chuyển hóa FDG, gợi ý rằng chúng có thể là lành tính. Tuy nhiên, cần theo dõi các tổn thương ở thượng thận trái để có đánh giá chính xác hơn trong tương lai."
+        }
+    ]
+},
+{
+    "id": "85c2973368e1740f3d1db8cc8a19c4ce7ab5e45471f0600701e80b7c4c9897ee",
+    "image": "PETCT_2019/THANG 5/images/abdomen_pelvis/day_31_patient_77.npy",
+    "conversations": [
+        {
+            "from": "human",
+            "value": "<image>\nBức ảnh này chụp bộ phận nào?"
+        },
+        {
+            "from": "gpt",
+            "value": "Bức ảnh này chụp bụng của bệnh nhân."
+        },
+        {
+            "from": "human",
+            "value": "Có cơ quan nào trong ổ bụng bắt xạ theo đặc điểm sinh lý không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Có, hình ảnh cho thấy bắt xạ theo đặc điểm sinh lý ở gan, lách, thượng thận và đài bể thận hai bên."
+        },
+        {
+            "from": "human",
+            "value": "Có dấu hiệu bất thường nào ở khung đại tràng không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Hình ảnh cho thấy tăng chuyển hóa FDG ở khung đại tràng, nhưng đây là theo đặc điểm sinh lý và không phải dấu hiệu bất thường."
+        },
+        {
+            "from": "human",
+            "value": "Có phát hiện hạch bất thường nào trong ổ bụng không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Có, có vài hạch bẹn kích thước khoảng 10 mm ở hố bẹn hai bên, nhưng không tăng chuyển hóa FDG, gợi ý rằng chúng có khả năng lành tính và có thể liên quan đến phản ứng viêm hoặc quá sản."
+        },
+        {
+            "from": "human",
+            "value": "Nhìn chung thì dựa trên kết quả chụp này có phát hiện dấu hiệu tổn thương ác tính hay cụ thể hơn là ung thư nào không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Dựa trên hình ảnh chụp bụng, không có dấu hiệu rõ ràng của tổn thương ác tính. Các cơ quan như gan, lách, thượng thận và đài bể thận đều bắt xạ theo đặc điểm sinh lý bình thường. Hình ảnh tăng chuyển hóa FDG ở khung đại tràng cũng không phải là dấu hiệu bất thường. Về các hạch bẹn, kích thước 10 mm và không có tăng chuyển hóa FDG cho thấy khả năng lành tính. Tóm lại, không có dấu hiệu ác tính rõ ràng trong kết quả chụp này. Nếu bệnh nhân không có triệu chứng bất thường, không cần can thiệp thêm, nhưng nếu có triệu chứng nghi ngờ, nên cân nhắc thực hiện thêm các xét nghiệm."
+        }
+    ]
+},
+{
+    "id": "7270c23f03510533bd6bd773f02b1357fd2dd150b5781daab0f4c204a77b6511",
+    "image": "PETCT_2019/THANG 6/images/chest/day_11_patient_113.npy",
+    "conversations": [
+        {
+            "from": "human",
+            "value": "<image>\nBức ảnh này chụp bộ phận nào?"
+        },
+        {
+            "from": "gpt",
+            "value": "Bức ảnh này chụp lồng ngực của bệnh nhân."
+        },
+        {
+            "from": "human",
+            "value": "Có dấu hiệu bất thường nào ở màng phổi và màng tim không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Không, hình ảnh không phát hiện tràn dịch màng phổi hai bên và tràn dịch màng tim."
+        },
+        {
+            "from": "human",
+            "value": "Có tổn thương nào ở nhu mô phổi không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Có, hình ảnh cho thấy dày tổ chức kẽ và tăng chuyển hóa FDG (SUVmax: 5,6) ở nhu mô thùy trên phổi phải, điều này có thể do viêm."
+        },
+        {
+            "from": "human",
+            "value": "Có phát hiện nốt mờ nào trong phổi không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Có, hình ảnh ghi nhận một nốt mờ không tăng chuyển hóa FDG ở thùy dưới phổi phải, nằm cạnh rãnh liên thùy lớn."
+        },
+        {
+            "from": "human",
+            "value": "Có phát hiện hạch bất thường nào trong lồng ngực không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Có, hình ảnh cho thấy có hạch rốn phổi phải với đường kính khoảng 13 mm và có tăng chuyển hóa FDG (SUVmax: 3,6), điều này có thể gợi ý đến tình trạng viêm hoặc tổn thương ác tính."
+        },
+        {
+            "from": "human",
+            "value": "Nhìn chung thì kết quả chụp này có phát hiện dấu hiệu tổn thương ác tính hay cụ thể hơn là ung thư nào không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Dựa trên hình ảnh chụp lồng ngực, không có dấu hiệu tràn dịch màng phổi hay màng tim, cho thấy không có tình trạng nghiêm trọng ở các khoang này. Tuy nhiên, có dày tổ chức kẽ ở thùy trên phổi phải với tăng chuyển hóa FDG (SUVmax: 5,6), có thể do viêm, nhưng cần đánh giá thêm để xác định nguyên nhân chính xác.\n\nNốt mờ không tăng chuyển hóa FDG ở thùy dưới phổi phải không có dấu hiệu ác tính rõ ràng, nhưng cũng cần theo dõi. Hạch rốn phổi phải có tăng chuyển hóa FDG (SUVmax: 3,6) có thể gợi ý đến tình trạng viêm hoặc tổn thương ác tính, cần có thêm đánh giá lâm sàng và xét nghiệm bổ sung để xác định rõ hơn.\n\nTóm lại, kết quả này không hoàn toàn loại trừ khả năng tổn thương ác tính, nhưng cũng không cung cấp đủ thông tin để kết luận chắc chắn về ung thư. Cần theo dõi định kỳ và có thể cân nhắc thêm xét nghiệm như CT ngực hoặc sinh thiết nếu có triệu chứng lâm sàng nghi ngờ."
+        }
+    ]
+},
+{
+    "id": "d1bb24334034bfc48d57cf05d8f57239463b61366005ff8e06409857bc83bfa6",
+    "image": "PETCT_2019/THANG 6/images/chest/day_14_patient_133.npy",
+    "conversations": [
+        {
+            "from": "human",
+            "value": "<image>\nBức ảnh này chụp bộ phận nào?"
+        },
+        {
+            "from": "gpt",
+            "value": "Bức ảnh này chụp lồng ngực của bệnh nhân."
+        },
+        {
+            "from": "human",
+            "value": "Có phát hiện dấu hiệu bất thường nào ở màng phổi không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Không, hình ảnh không phát hiện tràn dịch màng phổi hai bên và tràn dịch màng tim. Tuy nhiên, có hình ảnh dày thành sau màng phổi phải, nhưng không có tăng chuyển hóa FDG."
+        },
+        {
+            "from": "human",
+            "value": "Có tổn thương nào ở nhu mô phổi không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Có, hình ảnh cho thấy có sự dày tổ chức kẽ nhu mô phổi thùy dưới hai bên. Tuy nhiên, không phát hiện hình ảnh tăng chuyển hóa FDG khu trú ở nhu mô phổi hai bên, điều này gợi ý rằng các tổn thương này có thể là lành tính."
+        },
+        {
+            "from": "human",
+            "value": "Có dấu hiệu nào gợi ý tổn thương ác tính trong bức ảnh không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Dựa trên hình ảnh, không có dấu hiệu rõ ràng của tổn thương ác tính. Mặc dù có sự dày tổ chức kẽ nhu mô phổi thùy dưới hai bên, nhưng không có tăng chuyển hóa FDG khu trú ở nhu mô phổi, điều này làm giảm nghi ngờ về tính chất ác tính của các tổn thương này."
+        },
+        {
+            "from": "human",
+            "value": "Tình trạng hiện tại của bệnh nhân có cần can thiệp gì không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Dựa trên hình ảnh chụp lồng ngực, không có dấu hiệu nghiêm trọng như tràn dịch màng phổi hay màng tim, và các tổn thương ở nhu mô phổi không có tăng chuyển hóa FDG. Tuy nhiên, dày thành sau màng phổi phải và dày tổ chức kẽ nhu mô phổi có thể cần theo dõi và đánh giá thêm. Nếu bệnh nhân không có triệu chứng lâm sàng nghi ngờ, có thể chỉ cần theo dõi định kỳ. Nếu có triệu chứng như khó thở, đau ngực hoặc ho kéo dài thì cần tham khảo ý kiến bác sĩ để xem xét các xét nghiệm bổ sung."
+        }
+    ]
+},
+{
+    "id": "eb2cc6c58ebea28622ec192d199a524f84a0ae4c9d746801d224e12e279f7480",
+    "image": "PETCT_2019/THANG 6/images/chest/day_18_patient_139.npy",
+    "conversations": [
+        {
+            "from": "human",
+            "value": "<image>\nBức ảnh này chụp bộ phận nào?"
+        },
+        {
+            "from": "gpt",
+            "value": "Bức ảnh này chụp lồng ngực của bệnh nhân."
+        },
+        {
+            "from": "human",
+            "value": "Có dấu hiệu bất thường nào ở màng phổi hoặc màng tim không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Không, hình ảnh không phát hiện tràn dịch màng phổi hai bên và tràn dịch màng tim."
+        },
+        {
+            "from": "human",
+            "value": "Có dấu hiệu bất thường nào ở tuyến ức không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Hình ảnh cho thấy tăng chuyển hóa FDG lan tỏa ở tuyến ức theo đặc điểm sinh lý, điều này là bình thường và không phải là dấu hiệu bất thường."
+        },
+        {
+            "from": "human",
+            "value": "Có tổn thương nào ở nhu mô phổi không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Không, hình ảnh không phát hiện dấu hiệu tăng chuyển hóa FDG khu trú ở nhu mô phổi hai bên, cho thấy không có tổn thương đáng ngờ trong nhu mô phổi."
+        },
+        {
+            "from": "human",
+            "value": "Có phát hiện hạch bất thường nào ở vùng nách không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Có, hình ảnh ghi nhận vài hạch nách nhỏ kích thước khoảng 10 mm ở hố nách hai bên, nhưng không tăng chuyển hóa FDG, gợi ý rằng chúng có thể là lành tính hoặc không có hoạt động chuyển hóa bất thường."
+        },
+        {
+            "from": "human",
+            "value": "Dựa trên kết quả chụp này, có dấu hiệu nào gợi ý tổn thương ác tính không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Dựa trên hình ảnh chụp lồng ngực, không có dấu hiệu nào gợi ý tổn thương ác tính. Không phát hiện tràn dịch màng phổi hay màng tim, và các hạch nách nhỏ không tăng chuyển hóa FDG, cho thấy khả năng lành tính. Hơn nữa, không có tổn thương khu trú ở nhu mô phổi và tuyến ức cũng không có dấu hiệu bất thường. Nhìn chung, kết quả này không cho thấy có dấu hiệu rõ ràng của tổn thương ác tính."
+        }
+    ]
+},
+{
+    "id": "b799ea056ead129edb623f5555dc3c1a0aa8baffa0232e200b59b9612ec6f096",
+    "image": "PETCT_2019/THANG 10/images/chest/day_30_patient_198.npy",
+    "conversations": [
+        {
+            "from": "human",
+            "value": "<image>\nBức ảnh này chụp bộ phận nào?"
+        },
+        {
+            "from": "gpt",
+            "value": "Bức ảnh này chụp lồng ngực của bệnh nhân."
+        },
+        {
+            "from": "human",
+            "value": "Có phát hiện dấu hiệu bất thường nào ở màng phổi và màng tim không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Không, hình ảnh không phát hiện tràn dịch màng phổi hai bên và tràn dịch màng tim."
+        },
+        {
+            "from": "human",
+            "value": "Có tổn thương nào ở nhu mô phổi không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Có, hình ảnh cho thấy nốt mờ nhỏ với đường kính khoảng 5 mm ở thùy giữa phổi phải. Tuy nhiên, nốt này không tăng chuyển hóa FDG, điều này gợi ý rằng khả năng là tổn thương lành tính."
+        },
+        {
+            "from": "human",
+            "value": "Có phát hiện hạch bất thường nào ở vùng nách không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Có, có vài hạch nhỏ ở hố nách hai bên với kích thước khoảng 10 mm. Các hạch này không tăng chuyển hóa FDG, cho thấy khả năng lành tính và không có dấu hiệu ác tính."
+        },
+        {
+            "from": "human",
+            "value": "Nhìn chung thì dựa trên kết quả chụp này có phát hiện dấu hiệu tổn thương ác tính hay cụ thể hơn là ung thư nào không?"
+        },
+        {
+            "from": "gpt",
+            "value": "Dựa trên hình ảnh chụp lồng ngực, không phát hiện tràn dịch màng phổi hay màng tim, điều này cho thấy không có dấu hiệu tổn thương nghiêm trọng ở các khoang này. Về tổn thương ở nhu mô phổi, nốt mờ nhỏ ở thùy giữa phổi phải không tăng chuyển hóa FDG, gợi ý rằng có khả năng là tổn thương lành tính. Các hạch ở hố nách cũng không có dấu hiệu tăng chuyển hóa FDG, nên không có dấu hiệu ác tính. Tóm lại, không có dấu hiệu rõ ràng của ung thư hoặc tổn thương ác tính trong kết quả chụp CT này."
+        }
+    ]
+}
+]

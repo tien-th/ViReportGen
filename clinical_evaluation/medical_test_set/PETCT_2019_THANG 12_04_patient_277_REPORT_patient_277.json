@@ -1,0 +1,34 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "46 x 29 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh khối mờ, bờ tua gai",
+        "Vị trí của khối u, tổn thương, bất thường": "thùy dưới phổi phải",
+        "Mức độ FDG": {
+            "SUVmax": 2.9,
+            "Tăng chuyển hoá FDG": "Tăng nhẹ"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "U nguyên phát"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "7 x 4 mm và đường kính 4 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh nốt mờ",
+        "Vị trí của khối u, tổn thương, bất thường": "ngoại vi nhu mô thùy trên và thùy dưới phổi trái",
+        "Mức độ FDG": {
+            "SUVmax": "Không có",
+            "Tăng chuyển hoá FDG": "Không tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "cần lưu ý theo dõi"
+    },{
+    "Kích thước khối u, tổn thương, bất thường": "Vài mm",
+    "Hình dạng của khối u, tổn thương, bất thường": "Vài hạch nhỏ",
+    "Vị trí của khối u, tổn thương, bất thường": "Trung thất",
+    "Mức độ FDG": {
+        "SUVmax": 0,
+        "Tăng chuyển hóa FDG": "Không tăng"
+    },
+    "Xâm lấn": "Không",
+    "Giai đoạn chuyển hóa": "Khả năng lành tính"
+}
+]

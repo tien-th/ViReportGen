@@ -1,0 +1,69 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "28 x 23 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh nốt mờ",
+        "Vị trí của khối u, tổn thương, bất thường": "trung tâm thùy dưới phổi trái",
+        "Mức độ FDG": {
+            "SUVmax": 10.7,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "khả năng ác tính "
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "14 x 11 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh nốt mờ",
+        "Vị trí của khối u, tổn thương, bất thường": "ngoại vi thùy trên phổi trái",
+        "Mức độ FDG": {
+            "SUVmax": 4.1,
+            "Tăng chuyển hoá FDG": "Tăng ít"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": " khả năng ác tính "
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "hạch lớn nhất có đường kính 14 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh hạch",
+        "Vị trí của khối u, tổn thương, bất thường": "cửa sổ chủ phổi",
+        "Mức độ FDG": {
+            "SUVmax": 17.5,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Khả năng di căn"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "10 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Vài hạch nhỏ",
+        "Vị trí của khối u, tổn thương, bất thường": "Hai bên khí quản",
+        "Mức độ FDG": {
+            "SUVmax": 0,
+            "Tăng chuyển hóa FDG": "Không tăng"
+        },
+        "Xâm lấn": "Không",
+        "Giai đoạn chuyển hóa": "chưa loại trừ do di căn"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "Chưa xác định",
+        "Hình dạng của khối u, tổn thương, bất thường": "Vài hạch",
+        "Vị trí của khối u, tổn thương, bất thường": "Cửa sổ chủ - phổi, rốn phổi, dưới quai động mạch chủ",
+        "Mức độ FDG": {
+            "SUVmax": 0,
+            "Tăng chuyển hóa FDG": "Không tăng"
+        },
+        "Xâm lấn": "Không",
+        "Giai đoạn chuyển hóa": " chưa loại trừ do di căn "
+    },{
+    "Kích thước khối u, tổn thương, bất thường": "Chưa xác định",
+    "Hình dạng của khối u, tổn thương, bất thường": "Tăng chuyển hóa FDG không đặc hiệu",
+    "Vị trí của khối u, tổn thương, bất thường": "Rốn phổi phải",
+    "Mức độ FDG": {
+        "SUVmax": 0,
+        "Tăng chuyển hóa FDG": "Tăng nhẹ không đặc hiệu"
+    },
+    "Xâm lấn": "Không",
+    "Giai đoạn chuyển hóa": "Không đặc hiệu, khả năng viêm"
+}
+
+
+]

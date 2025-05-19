@@ -1,0 +1,57 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "58 x 39 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh khối mờ bờ tua gai",
+        "Vị trí của khối u, tổn thương, bất thường": "trung tâm thùy trên phổi trái",
+        "Mức độ FDG": {
+            "SUVmax": 12.8,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Dính vào màng phổi trung thất và rãnh liên thùy, nghi ngờ xâm lấn động mạch phổi trái",
+        "Giai đoạn chuyển hoá": "U nguyên phát"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "đường kính 9 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh vài nốt mờ",
+        "Vị trí của khối u, tổn thương, bất thường": "hạ phân thùy III thùy trên phổi phải",
+        "Mức độ FDG": {
+            "SUVmax": 5.2,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Khả năng di căn"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "hạch lớn nhất có kích thước 12 x 13 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh vài hạch trung thất",
+        "Vị trí của khối u, tổn thương, bất thường": "cạnh quai động mạch chủ và trước mạch máu, hạch rốn phổi trái",
+        "Mức độ FDG": {
+            "SUVmax": 7.6,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Khả năng di căn"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "Không có",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh dày màng phổi trung thất",
+        "Vị trí của khối u, tổn thương, bất thường": "bên trái",
+        "Mức độ FDG": {
+            "SUVmax": 4.1,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Khả năng di căn"
+    },{
+    "Kích thước khối u, tổn thương, bất thường": "5 x 3 mm",
+    "Hình dạng của khối u, tổn thương, bất thường": "Hạch",
+    "Vị trí của khối u, tổn thương, bất thường": "Thượng đòn trái",
+    "Mức độ FDG": {
+        "SUVmax": 2.6,
+        "Tăng chuyển hóa FDG": "Tăng nhẹ"
+    },
+    "Xâm lấn": "Không",
+    "Giai đoạn chuyển hóa": "Chưa loại trừ khả năng do di căn"
+}
+
+]

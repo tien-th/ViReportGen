@@ -1,0 +1,57 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "14 x 10 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh nốt mờ, bờ tua gai",
+        "Vị trí của khối u, tổn thương, bất thường": "đỉnh phổi phải",
+        "Mức độ FDG": {
+            "SUVmax": 12,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "khả năng ác tính"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "36 x 26 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh khối mờ",
+        "Vị trí của khối u, tổn thương, bất thường": "thùy dưới phổi phải, dính vào rốn phổi phải",
+        "Mức độ FDG": {
+            "SUVmax": 19,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "dính vào rốn phổi phải",
+        "Giai đoạn chuyển hoá": "U nguyên phát"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "19 x 22 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh vài hạch",
+        "Vị trí của khối u, tổn thương, bất thường": "rốn phổi phải",
+        "Mức độ FDG": {
+            "SUVmax": 16,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Di căn hạch"
+    },{
+  "Kích thước khối u, tổn thương, bất thường": "Không rõ",
+  "Hình dạng của khối u, tổn thương, bất thường": "Đám mờ và nốt mờ có vôi hóa",
+  "Vị trí của khối u, tổn thương, bất thường": "Ngoại vi thùy trên phổi phải",
+  "Mức độ FDG": {
+    "SUVmax": 0,
+    "Tăng chuyển hóa FDG": "Không tăng"
+  },
+  "Xâm lấn": "Không",
+  "Giai đoạn chuyển hóa": "Khả năng lành tính"
+},
+{
+  "Kích thước khối u, tổn thương, bất thường": "10 mm",
+  "Hình dạng của khối u, tổn thương, bất thường": "Hạch nhỏ",
+  "Vị trí của khối u, tổn thương, bất thường": "Dưới quai động mạch chủ và trước khí quản",
+  "Mức độ FDG": {
+    "SUVmax": 0,
+    "Tăng chuyển hóa FDG": "Không tăng"
+  },
+  "Xâm lấn": "Không",
+  "Giai đoạn chuyển hóa": "nên lưu ý theo dõi"
+}
+
+]

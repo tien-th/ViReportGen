@@ -1,0 +1,35 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "62 x 55 x 50 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh khối mờ",
+        "Vị trí của khối u, tổn thương, bất thường": "trung tâm thùy trên phổi trái",
+        "Mức độ FDG": {
+            "SUVmax": 13.3,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Nghi ngờ xâm lấn vào quai động mạch chủ",
+        "Giai đoạn chuyển hoá": "Khả năng ác tính"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "10 x 8 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh nốt mờ",
+        "Vị trí của khối u, tổn thương, bất thường": "nền phổi bên trái",
+        "Mức độ FDG": {
+            "SUVmax": "Không có",
+            "Tăng chuyển hoá FDG": "Không tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Cần lưu ý theo dõi"
+    },{
+    "Kích thước khối u, tổn thương, bất thường": "12 x 8 mm",
+    "Hình dạng của khối u, tổn thương, bất thường": "Hạch",
+    "Vị trí của khối u, tổn thương, bất thường": "Dưới quai động mạch chủ, cạnh hai bên khí quản đoạn thấp",
+    "Mức độ FDG": {
+        "SUVmax": 0,
+        "Tăng chuyển hóa FDG": "Không tăng"
+    },
+    "Xâm lấn": "Không",
+    "Giai đoạn chuyển hóa": "Nên lưu ý theo "
+}
+
+]

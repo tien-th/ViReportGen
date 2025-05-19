@@ -1,0 +1,24 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "đường kính 8 mm (phần đặc có đường kính 4 mm)",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh nốt mờ bán đặc",
+        "Vị trí của khối u, tổn thương, bất thường": "hạ phân thùy IV thùy giữa phổi phải",
+        "Mức độ FDG": {
+            "SUVmax": "Không có",
+            "Tăng chuyển hoá FDG": "Không tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Đối chiếu với mô bệnh học"
+    },{
+    "Kích thước khối u, tổn thương, bất thường": "10 mm",
+    "Hình dạng của khối u, tổn thương, bất thường": "Vài hạch, còn cấu trúc rốn hạch",
+    "Vị trí của khối u, tổn thương, bất thường": "Trung thất tại cửa sổ chủ phổi, trước và dưới carina",
+    "Mức độ FDG": {
+        "SUVmax": 0,
+        "Tăng chuyển hóa FDG": "Không tăng"
+    },
+    "Xâm lấn": "Không",
+    "Giai đoạn chuyển hóa": "Khả năng do viêm"
+}
+
+]

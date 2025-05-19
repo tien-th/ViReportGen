@@ -1,0 +1,35 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "39 x 56 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh khối mờ bờ đa cung",
+        "Vị trí của khối u, tổn thương, bất thường": "trung tâm thùy dưới phổi phải",
+        "Mức độ FDG": {
+            "SUVmax": 19.6,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Xâm lấn rốn phổi, dính vào rãnh liên thùy, màng phổi thành sau và trung thất, nghi ngờ xâm lấn tĩnh mạch phổi phải",
+        "Giai đoạn chuyển hoá": "U nguyên phát"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "17 x 19 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh hạch",
+        "Vị trí của khối u, tổn thương, bất thường": "rốn phổi phải",
+        "Mức độ FDG": {
+            "SUVmax": 11.8,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Khả năng di căn"
+    },{
+    "Kích thước khối u, tổn thương, bất thường": "10 mm",
+    "Hình dạng của khối u, tổn thương, bất thường": "Vài hạch",
+    "Vị trí của khối u, tổn thương, bất thường": "Trung thất ở trước và dưới carina",
+    "Mức độ FDG": {
+        "SUVmax": 0,
+        "Tăng chuyển hoá FDG": "Không tăng"
+    },
+    "Xâm lấn": "Không",
+    "Giai đoạn chuyển hoá": "Khả năng viêm"
+}
+
+]

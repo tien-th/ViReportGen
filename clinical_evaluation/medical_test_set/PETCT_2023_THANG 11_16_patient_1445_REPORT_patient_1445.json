@@ -1,0 +1,46 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "13 x 20 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh nốt mờ bờ đa cung",
+        "Vị trí của khối u, tổn thương, bất thường": "hạ phân thùy I thùy trên phổi trái",
+        "Mức độ FDG": {
+            "SUVmax": 12.3,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Khả năng ác tính"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "đường kính 4 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh nốt kính mờ",
+        "Vị trí của khối u, tổn thương, bất thường": "ngoại vi thùy dưới phổi trái",
+        "Mức độ FDG": {
+            "SUVmax": "Không có",
+            "Tăng chuyển hoá FDG": "Không tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "khả năng do viêm"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "38 x 43 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh đám kính mờ",
+        "Vị trí của khối u, tổn thương, bất thường": "ngoại vi thùy trên phổi trái",
+        "Mức độ FDG": {
+            "SUVmax": "Không có",
+            "Tăng chuyển hoá FDG": "Không tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": " khả năng do viêm"
+    },{
+    "Kích thước khối u, tổn thương, bất thường": "10 mm",
+    "Hình dạng của khối u, tổn thương, bất thường": "Vài hạch",
+    "Vị trí của khối u, tổn thương, bất thường": "Cạnh quai động mạch chủ, cửa sổ chủ phổi, trước khí quản",
+    "Mức độ FDG": {
+        "SUVmax": 0,
+        "Tăng chuyển hóa FDG": "Không tăng"
+    },
+    "Xâm lấn": "Không",
+    "Giai đoạn chuyển hóa": "Khả năng viêm"
+}
+
+]

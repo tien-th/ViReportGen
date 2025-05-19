@@ -1,0 +1,46 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "29 x 22 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh khối tổn thương",
+        "Vị trí của khối u, tổn thương, bất thường": "đỉnh phổi trái",
+        "Mức độ FDG": {
+            "SUVmax": 18,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Xâm lấn vào thành ngực, cung sau xương sườn 1 trái, gai ngang và cuống sống của D1 và D2",
+        "Giai đoạn chuyển hoá": "Khả năng ác tính tái phát"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "Hạch lớn nhất có kích thước 15 x 10 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh vài hạch",
+        "Vị trí của khối u, tổn thương, bất thường": "trước khí quản và carina",
+        "Mức độ FDG": {
+            "SUVmax": 3.3,
+            "Tăng chuyển hoá FDG": "Có tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Khả năng do metastases"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "Không có",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh dày dính và tràn dịch màng phổi trái",
+        "Vị trí của khối u, tổn thương, bất thường": "màng phổi trái",
+        "Mức độ FDG": {
+            "SUVmax": 5.6,
+            "Tăng chuyển hoá FDG": "Tăng nhẹ"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "chưa loại trừ khả năng do di "
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "Không có",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh dải mờ",
+        "Vị trí của khối u, tổn thương, bất thường": "đỉnh phổi trái, dính vào màng phổi thành trước",
+        "Mức độ FDG": {
+            "SUVmax": "Không có",
+            "Tăng chuyển hoá FDG": "Không tăng"
+        },
+        "Xâm lấn": "Dính vào màng phổi thành trước",
+        "Giai đoạn chuyển hoá": "Khả năng do xơ hóa"
+    }
+]

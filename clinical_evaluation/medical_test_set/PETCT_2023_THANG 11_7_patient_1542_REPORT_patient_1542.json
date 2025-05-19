@@ -1,0 +1,57 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "48 x 37 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh khối mờ",
+        "Vị trí của khối u, tổn thương, bất thường": "trung tâm thùy dưới phổi trái",
+        "Mức độ FDG": {
+            "SUVmax": 9.5,
+            "Tăng chuyển hoá FDG": "Cao"
+        },
+        "Xâm lấn": "Dính vào màng phổi thành sau, gây xẹp một phần nhu mô phổi",
+        "Giai đoạn chuyển hoá": "U nguyên phát"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "kích thước 10 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh vài hạch trung thất",
+        "Vị trí của khối u, tổn thương, bất thường": "ở cửa sổ chủ phổi, dưới carina",
+        "Mức độ FDG": {
+            "SUVmax": 4.3,
+            "Tăng chuyển hoá FDG": "Có tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Khả năng di căn"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "kích thước 10 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh nhiều hạch",
+        "Vị trí của khối u, tổn thương, bất thường": "dọc bên phải khí quản",
+        "Mức độ FDG": {
+            "SUVmax": 5.4,
+            "Tăng chuyển hoá FDG": "Có tăng"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "Khả năng di căn"
+    },{
+    "Kích thước khối u, tổn thương, bất thường": "Vài mm",
+    "Hình dạng của khối u, tổn thương, bất thường": "Dải mờ và nốt mờ",
+    "Vị trí của khối u, tổn thương, bất thường": "Ngoại vi hạ phân thùy III thùy trên và hạ phân thùy VI thùy dưới phổi phải",
+    "Mức độ FDG": {
+        "SUVmax": 0,
+        "Tăng chuyển hóa FDG": "Không tăng"
+    },
+    "Xâm lấn": "Không",
+    "Giai đoạn chuyển hóa": "Khả năng xơ hóa"
+},
+{
+    "Kích thước khối u, tổn thương, bất thường": "Chưa xác định",
+    "Hình dạng của khối u, tổn thương, bất thường": "Tăng chuyển hóa FDG",
+    "Vị trí của khối u, tổn thương, bất thường": "Rốn phổi hai bên",
+    "Mức độ FDG": {
+        "SUVmax": 3.6,
+        "Tăng chuyển hóa FDG": "Tăng nhẹ"
+    },
+    "Xâm lấn": "Không",
+    "Giai đoạn chuyển hóa": "Khả năng viêm"
+}
+
+]

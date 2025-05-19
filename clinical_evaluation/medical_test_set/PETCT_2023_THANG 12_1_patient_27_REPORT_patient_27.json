@@ -1,0 +1,24 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "vài mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Nốt mờ",
+        "Vị trí của khối u, tổn thương, bất thường": "Ngoại vi thùy trên phổi phải và thùy dưới phổi trái",
+        "Mức độ FDG": {
+            "SUVmax": 0,
+            "Tăng chuyển hóa FDG": "Không tăng (ổn định so với PET/CT tháng 9/2023)"
+        },
+        "Xâm lấn": "Không",
+        "Giai đoạn chuyển hóa": "Khả năng viêm"
+    },
+    {
+        "Kích thước khối u, tổn thương, bất thường": "Chưa xác định",
+        "Hình dạng của khối u, tổn thương, bất thường": "Dải mờ",
+        "Vị trí của khối u, tổn thương, bất thường": "Hạ phân thùy VI phổi phải",
+        "Mức độ FDG": {
+            "SUVmax": 0,
+            "Tăng chuyển hóa FDG": "Không tăng"
+        },
+        "Xâm lấn": "Không",
+        "Giai đoạn chuyển hóa": "khả năng tổn thương nguyên phát ổn định sau điều trị"
+    }
+]

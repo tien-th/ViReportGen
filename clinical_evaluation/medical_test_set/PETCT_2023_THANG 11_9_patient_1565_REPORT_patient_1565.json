@@ -1,0 +1,24 @@
+[
+    {
+        "Kích thước khối u, tổn thương, bất thường": "10 x 11 mm",
+        "Hình dạng của khối u, tổn thương, bất thường": "Hình ảnh nốt kính mờ",
+        "Vị trí của khối u, tổn thương, bất thường": "hạ phân thùy IX thùy dưới phổi phải",
+        "Mức độ FDG": {
+            "SUVmax": 3.4,
+            "Tăng chuyển hoá FDG": "Tăng nhẹ"
+        },
+        "Xâm lấn": "Không có",
+        "Giai đoạn chuyển hoá": "U nguyên phát"
+    },{
+    "Kích thước khối u, tổn thương, bất thường": "Chưa xác định",
+    "Hình dạng của khối u, tổn thương, bất thường": "Tăng chuyển hóa FDG không đặc hiệu",
+    "Vị trí của khối u, tổn thương, bất thường": "Rốn phổi phải",
+    "Mức độ FDG": {
+        "SUVmax": 3.9,
+        "Tăng chuyển hóa FDG": "Tăng nhẹ"
+    },
+    "Xâm lấn": "Không rõ",
+    "Giai đoạn chuyển hóa": "Khả năng do viêm"
+}
+
+]

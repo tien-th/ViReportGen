@@ -1,0 +1,8 @@
+train: "train_compare.txt"
+val: "val_compare.txt"
+pretrained_path: "./ckpt/Cosmos-Tokenize1-CV8x8x8-720p/autoencoder.jit"
+EPOCH: 20
+ckpt: "ckpt"
+save_path: "save_image"
+lr: 0.0001
+ssim: True
