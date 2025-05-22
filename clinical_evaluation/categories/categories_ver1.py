@@ -182,18 +182,9 @@ hinh_dang_ton_thuong = {
         "hình ảnh đám đông đặc",
     ],
 
-    "tổn thương": [ # -- CHUYỂN THÀNH MỤC KHÁC?
-        "tổn thương hủy xương",
-        "tổn thương dạng nụ cành",
-        "hình ảnh tổn thương dạng hang thành dày không đều",
-        "tổn thương dày",
-        "hình ảnh khối tổn thương",
-        "tổn thương dạng thâm nhiễm",
-        'Tổn thương', 'Tổn thương bất thường tại mô phổi', 
-        'Hình ảnh tổn thương dạng lưới nốt',
-        'Hình ảnh tổn thương dạng lướn' 
-        'Tổn thương không đặc hiệu'
-    ],
+    # "tổn thương": [ # -- CHUYỂN THÀNH MỤC KHÁC?
+        
+    # ],
     
     "tràn dịch": [
         "hình ảnh dày khu trú màng phổi và tràn dịch khoang màng phổi",
@@ -281,6 +272,16 @@ hinh_dang_ton_thuong = {
         'Bất thường ở nhu mô phổi',
         'Không đặc hiệu',
         'Rìa lưỡi hai bên',# --> CỦA VÙNG ĐẦU MẶT --> BỎ
+        "tổn thương hủy xương",
+        "tổn thương dạng nụ cành",
+        "hình ảnh tổn thương dạng hang thành dày không đều",
+        "tổn thương dày",
+        "hình ảnh khối tổn thương",
+        "tổn thương dạng thâm nhiễm",
+        'Tổn thương', 'Tổn thương bất thường tại mô phổi', 
+        'Hình ảnh tổn thương dạng lưới nốt',
+        'Hình ảnh tổn thương dạng lướn' 
+        'Tổn thương không đặc hiệu'
     ]
 }
 

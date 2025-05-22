@@ -15,7 +15,8 @@
 #     raise ValueError(f'Unknown vision tower: {vision_tower}')
 import torch
 import os
-from .clip_encoder import CLIPVisionTower, CLIPVisionTowerS2
+
+from .cosmos1.models.tokenizer.networks import TokenizerConfigs, TokenizerModels
 from .ctvit import CTViT
 
 def build_vision_tower(vision_tower_cfg, **kwargs):
@@ -32,22 +33,25 @@ def build_vision_tower(vision_tower_cfg, **kwargs):
     raise ValueError(f'Unknown vision tower: {vision_tower}')
     '''
     
-    cvit = CTViT(
-        dim = 512,
-        codebook_size = 8192,
-        image_size = 480,
-        patch_size = 20,
-        temporal_patch_size = 10,
-        spatial_depth = 4,
-        temporal_depth = 4,
-        dim_head = 32,
-        heads = 8
-    )
-    cvit.hidden_size = 294912
-
     vision_tower = getattr(vision_tower_cfg, 'mm_vision_tower', getattr(vision_tower_cfg, 'vision_tower', None))
-    # vision_tower = getattr(vision_tower_cfg, 'vision_tower', None)
-    if vision_tower is not None:
+
+    if 'ctvit' in vision_tower:
+        cvit = CTViT(
+            dim = 512,
+            codebook_size = 8192,
+            image_size = 480,
+            patch_size = 20,
+            temporal_patch_size = 10,
+            spatial_depth = 4,
+            temporal_depth = 4,
+            dim_head = 32,
+            heads = 8
+        )
+        cvit.hidden_size = 294912
+
+        
+        # vision_tower = getattr(vision_tower_cfg, 'vision_tower', None)
+
         is_absolute_path_exists = os.path.exists(vision_tower)
     
         if is_absolute_path_exists:
@@ -68,7 +72,23 @@ def build_vision_tower(vision_tower_cfg, **kwargs):
         
             return cvit
         
-        return None
-    
+
+    elif 'cosmos' in vision_tower:
+        model_class = TokenizerModels.CV.value
+        config = TokenizerConfigs.CV8x8x8.value
+        is_absolute_path_exists = os.path.exists(vision_tower)
+        if is_absolute_path_exists:
+            model = model_class(**config)
+            state_dict = torch.load(vision_tower)
+            model.load_state_dict(state_dict, strict=True)
+            model = model.encoder
+            model = model.to(torch.bfloat16)
+            for param in model.parameters():
+                param.requires_grad = False
+            model.eval()
+            model.is_loaded = True
+            model.hidden_size = 16384
+            return model
+
     return None 
     
